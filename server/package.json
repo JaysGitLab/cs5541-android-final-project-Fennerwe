@@ -1,0 +1,19 @@
+{
+  "name": "pic_tracker",
+  "version": "1.0.0",
+  "description": "Server side api for a picture tracking application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trey Fenner",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "forever": "^0.15.2",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.0",
+    "mysql": "^2.11.1"
+  }
+}

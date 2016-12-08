@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pic Tracker</string>
+    <string name="title_activity_tracker">Tracker</string>
+
+    <string name="title_activity_image_viewer">ImageViewer</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
